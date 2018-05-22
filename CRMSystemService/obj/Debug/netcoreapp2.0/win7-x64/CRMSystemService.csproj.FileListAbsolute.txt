@@ -1,0 +1,13 @@
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\obj\Debug\netcoreapp2.0\win7-x64\CRMSystemService.csproj.CoreCompileInputs.cache
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\obj\Debug\netcoreapp2.0\win7-x64\CRMSystemService.AssemblyInfoInputs.cache
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\obj\Debug\netcoreapp2.0\win7-x64\CRMSystemService.AssemblyInfo.cs
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\bin\Debug\netcoreapp2.0\win7-x64\hostpolicy.dll
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\bin\Debug\netcoreapp2.0\win7-x64\hostfxr.dll
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\bin\Debug\netcoreapp2.0\win7-x64\CRMSystemService.exe
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\bin\Debug\netcoreapp2.0\win7-x64\CRMSystemService.deps.json
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\bin\Debug\netcoreapp2.0\win7-x64\CRMSystemService.runtimeconfig.json
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\bin\Debug\netcoreapp2.0\win7-x64\CRMSystemService.runtimeconfig.dev.json
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\bin\Debug\netcoreapp2.0\win7-x64\CRMSystemService.dll
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\bin\Debug\netcoreapp2.0\win7-x64\CRMSystemService.pdb
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\obj\Debug\netcoreapp2.0\win7-x64\CRMSystemService.dll
+F:\ASF\Demonstrations\ProfessionalASFSolution\CRMSystemService\obj\Debug\netcoreapp2.0\win7-x64\CRMSystemService.pdb

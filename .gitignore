@@ -1,0 +1,8 @@
+*\**\bin
+*\**\debug
+*\**\obj
+
+.vsts
+.vs
+
+packages
